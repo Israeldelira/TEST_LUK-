@@ -3,7 +3,7 @@ const Hotel = require('./hotel');
 // 3 Levels
 // 2 rows for level
 // 5 rooms for row
-let myHotel = new Hotel(1, 1, 50);
+let myHotel = new Hotel(3, 2, 5);
 
 //Test
 console.log("Room for one person");
